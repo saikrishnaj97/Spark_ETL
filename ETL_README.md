@@ -2,7 +2,7 @@
 
 Python, Spark and Spark SQL are used for the given data engineering task.
 
-Overall, There are three modules/python_files found in the 'saikrisnaj97-data-engineering-test' directory
+Overall, There are three modules/python_files found in the 'Spark_ETL' directory
 which are used to perform the all the tasks/functionalities and test them:
 1)	caller.py – the file with the main method which contains the code for creation of spark context and method calls to perform individual tasks/functionalities.
 2)	tasks.py – the file which contains all the individual tasks/functionalities inside a class which can be accessed by creating an object of this class from caller.py file.
